@@ -12,7 +12,10 @@ resizing function is in first lines so it's easy to edit
  how to use:
  
 drag video file onto this exe and it opens cmd that tells you progress
+
 to edit resulting resizing edit calcFramSize function, in there it's pretty obvious what to change
+
+and also i think there are still some bugs mainly of my lack of c++ knowledge
  
  <br/><br/>
  
