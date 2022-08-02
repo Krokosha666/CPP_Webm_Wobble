@@ -13,7 +13,7 @@ resizing function is in first lines so it's easy to edit
  
 Made in Visual Studio 2019 
 
-actually my first project in c++
+actually my first real project in c++
 
 i didn't bother licensing it, it's extremely inefficient code
 if u fix it and i'd apreciate crediting
