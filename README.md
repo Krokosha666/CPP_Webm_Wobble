@@ -1,6 +1,7 @@
 # CPP_Webm_Wobble
-!!! REQUIRES FFMPEG AND FFPROBE TO WORK !!!
 original: https://github.com/OIRNOIR/WebM-Maker-Thing-Idk
+
+!!! REQUIRES FFMPEG AND FFPROBE TO WORK !!!
 
 program that make weird resizing effect on video in discord
 
