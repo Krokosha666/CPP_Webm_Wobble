@@ -10,6 +10,7 @@ but mainly it's just source files, this one only makes video get bigger to end
 resizing function is in first lines so it's easy to edit
  <br/><br/>
  how to use:
+ 
 drag video file onto this exe and it opens cmd that tells you progress
 to edit resulting resizing edit calcFramSize function, in there it's pretty obvious what to change
  
