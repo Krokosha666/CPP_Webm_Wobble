@@ -17,3 +17,5 @@ actually my first project in c++
 
 i didn't bother licensing it, it's extremely inefficient code
 if u fix it and i'd apreciate crediting
+
+this side project so i won't bother updating it
